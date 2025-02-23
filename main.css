@@ -1,3 +1,4 @@
+
 :root {
 	/* Discord Greys - Dark to Lighter */
 	--discord-grey-0: #121212;
@@ -66,7 +67,7 @@
 	--widget-width: 25%;
 	
 	/* Original colors */
-	--background-color: #141926;
+	--background-color: #007FFF;
 	--dark-background-color: #02050c;
 	--container-color: #373737;
 	--button-color: #2A2A2A;
